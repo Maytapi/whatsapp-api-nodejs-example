@@ -2,7 +2,7 @@
 
 > A simple nodejs bot for Maytapi WhatsApp Api
 
-[Our Website](https://maytapi.com/) • [WhatsApp Api Documentations](https://maytapi.com/whatsapp-api-documentation)
+[Our Website](https://maytapi.com/) • [WhatsApp Api Documentations](https://maytapi.com/whatsapp-api-documentation) • [WhatsApp Api Postman Collection](https://maytapi.com/whatsapp-postman-documentation)
 
 - In this example we echo the text messages back to user.
 - We use ngrok to create temporary https reverse proxy so whatsapp can reach our demo api.
