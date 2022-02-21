@@ -26,3 +26,16 @@ Tested with nodejs v10.15.0
 `npm start`
 
 Now you can try the bot with sending test messages to your connected number.
+
+You can test this bot with these preconfigured messages:
+
+- media
+- media64
+- location
+- reply
+- link
+- filepdf
+- filedoc
+- vcard
+- contact
+- product
